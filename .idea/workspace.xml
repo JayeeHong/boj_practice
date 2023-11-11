@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83864339-009d-4f53-98a0-c3874c23393e" name="Changes" comment="25314">
-      <change afterPath="$PROJECT_DIR$/src/step4/Q10807.java" afterDir="false" />
+    <list default="true" id="83864339-009d-4f53-98a0-c3874c23393e" name="Changes" comment="10807">
+      <change afterPath="$PROJECT_DIR$/src/step4/Q10810.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,9 +52,22 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Q10807">
+  <component name="RunManager" selected="Application.Q10810">
     <configuration name="Q10807" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="step4.Q10807" />
+      <module name="boj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="step4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q10810" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="step4.Q10810" />
       <module name="boj" />
       <extension name="coverage">
         <pattern>
@@ -94,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q10810" />
         <item itemvalue="Application.Q10807" />
         <item itemvalue="Application.Q25314" />
         <item itemvalue="Application.Q25304" />
@@ -108,7 +122,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699663147761</updated>
-      <workItem from="1699663149125" duration="3100000" />
+      <workItem from="1699663149125" duration="5794000" />
     </task>
     <task id="LOCAL-00001" summary="boj">
       <option name="closed" value="true" />
@@ -150,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699665056780</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="10807">
+      <option name="closed" value="true" />
+      <created>1699666897968</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699666897968</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +195,8 @@
     <MESSAGE value="11382" />
     <MESSAGE value="25304" />
     <MESSAGE value="25314" />
-    <option name="LAST_COMMIT_MESSAGE" value="25314" />
+    <MESSAGE value="10807" />
+    <option name="LAST_COMMIT_MESSAGE" value="10807" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
