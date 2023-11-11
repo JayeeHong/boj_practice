@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="83864339-009d-4f53-98a0-c3874c23393e" name="Changes" comment="" />
+    <list default="true" id="83864339-009d-4f53-98a0-c3874c23393e" name="Changes" comment="boj">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/step1/Q11382.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/step1/Q11382.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
@@ -24,6 +42,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.tools",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -35,8 +62,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699663147761</updated>
-      <workItem from="1699663149125" duration="2000" />
+      <workItem from="1699663149125" duration="943000" />
     </task>
+    <task id="LOCAL-00001" summary="boj">
+      <option name="closed" value="true" />
+      <created>1699663395211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699663395211</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="boj" />
+    <option name="LAST_COMMIT_MESSAGE" value="boj" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="boj" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file://D:/Project/boj}" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="boj" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file://D:/Project/boj}" type="462c0819:PsiDirectoryNode" />
+        <item name="dir{file://D:/Project/boj/src}" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="boj" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dir{file://D:/Project/boj}" type="462c0819:PsiDirectoryNode" />
+        <item name="dir{file://D:/Project/boj/src}" type="462c0819:PsiDirectoryNode" />
+        <item name="dir{file://D:/Project/boj/src/step1}" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
 </project>
